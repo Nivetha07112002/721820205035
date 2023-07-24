@@ -37,3 +37,4 @@ app.get('/numbers', async (req, res) => {
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
 });
+//Output screenshot is in wiki
